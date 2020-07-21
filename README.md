@@ -9,5 +9,5 @@ then open terminal and type: sudo npm install http-server -g (sudo is only for m
 then go to the directory where my website is and type http-server
 
 then open a window and type localhost:8080 and you should see my website (it starts in index.html by clicking my name)
------------------------------------------------------------
+
 Thanks again for stopping by!

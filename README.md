@@ -11,3 +11,5 @@ then go to the directory where my website is and type http-server
 then open a window and type localhost:8080 and you should see my website (it starts in index.html by clicking my name)
 
 Thanks again for stopping by!
+
+*note - if you can, use chrome!*
